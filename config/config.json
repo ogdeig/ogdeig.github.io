@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xa7F4Db52fC27A3C35bE198537d2B624f68bA23ca",
+  "SCAN_LINK": "https://polygonscan.com/token/0xa7F4Db52fC27A3C35bE198537d2B624f68bA23ca",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Skizzards",
+  "SYMBOL": "SKZZ",
+  "MAX_SUPPLY": 3000,
+  "WEI_COST": 420000000000000000,
+  "DISPLAY_COST": 0.42,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/skizzards",
+  "SHOW_BACKGROUND": true
+}
