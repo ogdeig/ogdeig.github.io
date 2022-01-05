@@ -10,7 +10,7 @@
   "SYMBOL": "SKZZ",
   "MAX_SUPPLY": 3000,
   "WEI_COST": 750000000000000000,
-  "DISPLAY_COST": .75,
+  "DISPLAY_COST": 0.75,
   "GAS_LIMIT": 285000,
   "MARKETPLACE": "Opeansea",
   "MARKETPLACE_LINK": "https://opensea.io/collection/skizzards",
